@@ -1,0 +1,86 @@
+G90			(Modus: Absolute Positionierung)
+G94			(Feedrate in units per minute, default)
+G17			(Arbeitsbereich: Achsen auf xy, default)
+G21			(Einheit: Millimeter)
+
+$H			(Homing: Limit Schalter suchen.)
+G54			(Das erste Koordinatensystem G54 anwenden.)
+G10 L20 P0 X0 Y0	(Offsets des ersten Koordinatensystems G54 setzen.)
+
+G1 F3000		(Geschwindigkeit der G1-Bewegungen festlegen.)
+
+
+G1 X2 Y2
+G1 X2 Y716
+G1 X386
+G1 Y697.3
+G1 X2
+G1 Y676.85
+G1 X386
+G1 Y656.4
+G1 X2
+G1 Y635.95
+G1 X386
+G1 Y615.5
+G1 X2
+G1 Y595.05
+G1 X386
+G1 Y574.6
+G1 X2
+G1 Y554.15
+G1 X386
+G1 Y533.7
+G1 X2
+G1 Y513.25
+G1 X386
+G1 Y492.8
+G1 X2
+G1 Y472.35
+G1 X386
+G1 Y451.9
+G1 X2
+G1 Y431.45
+G1 X386
+G1 Y411
+G1 X2
+G1 Y390.55
+G1 X386
+G1 Y370.1
+G1 X2
+G1 Y349.65
+G1 X386
+G1 Y329.2
+G1 X2
+G1 Y308.75
+G1 X386
+G1 Y288.3
+G1 X2
+G1 Y267.85
+G1 X386
+G1 Y247.4
+G1 X2
+G1 Y226.95
+G1 X386
+G1 Y206.5
+G1 X2
+G1 Y186.05
+G1 X386
+G1 Y165.6
+G1 X2
+G1 Y145.15
+G1 X386
+G1 Y124.7
+G1 X2
+G1 Y104.25
+G1 X386
+G1 Y83.8
+G1 X2
+G1 Y63.35
+G1 X386
+G1 Y42.9
+G1 X2
+G1 Y22.45
+G1 X386
+G1 Y2
+G1 X2
+
