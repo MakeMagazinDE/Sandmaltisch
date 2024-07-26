@@ -12,7 +12,7 @@ Maker Media GmbH
 
 ![Picture](./Aufmacher.jpg) 
 
-Den vollständigen Artikel gibt es in der [Make 4/24 ab Seite ]().
+Den vollständigen Artikel gibt es in der [Make 4/24 ab Seite 16](https://www.heise.de/ratgeber/Ikea-Sandmaltisch-Bauanleitung-Teil-1-Material-und-Zusammenbau-9773244.html).
 
 
 
