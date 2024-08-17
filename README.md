@@ -16,5 +16,5 @@ Den vollständigen Artikel gibt es in der [Make 4/24 ab Seite 16](https://www.he
 
 
 
-Hier finden Sie die Schrit-für-Schritt Anleitung, die 3D-Druckteile, die Firmware und GCODE-Beispielbilder.
+Hier finden Sie die Schritt-für-Schritt Anleitung, die 3D-Druckteile, die Firmware und GCODE-Beispielbilder.
 
